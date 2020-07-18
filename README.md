@@ -1,4 +1,3 @@
-  <font size="10">
 		<p style="text-align: left">
 		P1
 		<a style="color:white" href="./threeday.mp4">三天之内杀了你</a> 
@@ -170,4 +169,3 @@
 		<p style="text-align: left">
 		<a style="color:white" href="./batman.html">蝙蝠侠专区</a>
 	</p>
-	</font>
